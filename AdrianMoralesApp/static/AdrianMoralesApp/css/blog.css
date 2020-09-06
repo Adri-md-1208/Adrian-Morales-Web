@@ -1,0 +1,20 @@
+/* Custom styles for the blog */
+
+.content {
+    text-align: left;
+    padding: 2rem;
+    border: .5rem;
+    margin: .5rem;
+    float: right;
+}
+
+.image {
+    padding: 1.5rem .5rem;
+    float: left;
+}
+
+.title {
+    padding: 1rem;
+    text-align: left;
+    margin-left: 2rem;
+}
